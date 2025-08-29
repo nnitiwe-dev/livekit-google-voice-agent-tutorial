@@ -1,0 +1,5 @@
+livekit-plugins-noise-cancellation~=0.2
+python-dotenv
+google-cloud-speech==2.29.0
+google-cloud-translate==3.19.0
+livekit-agents[google,silero,elevenlabs]==1.2.6
