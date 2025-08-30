@@ -1,6 +1,6 @@
  # Building Your First Real-Time AI Voice Agent (PART 2)
 
- Welcome back to our LiveKit voice agent series! Last week, we explored the fundamentals of voice agents using a [Jupyter notebook tutorial](https://colab.research.google.com/drive/19jjRT40RVWTojwZQlr88dpWXoQrXwrIB?usp=sharing) where we built and tested a basic voice agent directly in the notebook environment. This gave us a solid foundation for understanding how LiveKit agents work with speech recognition, language models, and text-to-speech.
+ Welcome back to our LiveKit voice agent series! Last week, we explored the fundamentals of voice agents using a [Google Colab notebook tutorial](https://colab.research.google.com/drive/19jjRT40RVWTojwZQlr88dpWXoQrXwrIB?usp=sharing) where we built and tested a basic voice agent directly in the notebook environment. This gave us a solid foundation for understanding how LiveKit agents work with speech recognition, language models, and text-to-speech.
 
 ## What We're Building This Week
 
