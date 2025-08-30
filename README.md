@@ -105,12 +105,10 @@ We'll build this application step by step:
    uv run python src/agent.py download-files
    ```
 8. To run the agent for use with a frontend or telephony, use the `dev` command:
-
   ```console
   uv run python src/agent.py dev
   ```
 9. In production, use the `start` command:
-
   ```console
   uv run python src/agent.py start
   ```
