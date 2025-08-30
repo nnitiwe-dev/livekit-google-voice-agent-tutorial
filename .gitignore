@@ -5,3 +5,4 @@ venv/
 .env.local
 __pycache__/
 Dockerfile
+/tests/
